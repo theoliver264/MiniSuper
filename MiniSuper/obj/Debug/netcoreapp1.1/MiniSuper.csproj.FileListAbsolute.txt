@@ -1,0 +1,9 @@
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\bin\Debug\netcoreapp1.1\MiniSuper.deps.json
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\bin\Debug\netcoreapp1.1\MiniSuper.runtimeconfig.json
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\bin\Debug\netcoreapp1.1\MiniSuper.runtimeconfig.dev.json
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\bin\Debug\netcoreapp1.1\MiniSuper.dll
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\bin\Debug\netcoreapp1.1\MiniSuper.pdb
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\obj\Debug\netcoreapp1.1\MiniSuper.csprojResolveAssemblyReference.cache
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\obj\Debug\netcoreapp1.1\MiniSuper.AssemblyInfo.cs
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\obj\Debug\netcoreapp1.1\MiniSuper.dll
+C:\Users\20149548\Documents\DotNet\MiniSuperSolucion\MiniSuper\obj\Debug\netcoreapp1.1\MiniSuper.pdb
